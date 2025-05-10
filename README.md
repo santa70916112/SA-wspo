@@ -1,4 +1,5 @@
 # Weather Station
+This is our repository
 
 ## Program Operation Concept.
 
@@ -8,8 +9,7 @@ Upon execution, the program communicates with the IMGW API, retrieves data from 
 
 ## Program Execution
 
-To execute the program, run the file `createAndPopulateWeatherMeasurement.py`.....
-
+To execute the program, run the file `createAndPopulateWeatherMeasurement.py`
 ## Installation of Necessary Libraries
 
 To install the necessary libraries, use the command:
